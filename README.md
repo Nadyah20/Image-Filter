@@ -1,2 +1,2 @@
-# Image-Filter
-It's an image filter that adds a blue filter to an image.
+# Nadyah20
+Hi my name is Nadyah and I've taken a lot of computer science courses, here are some of my projects. 
